@@ -1,8 +1,9 @@
-# debug here :) Good atcoder life!
+# Debug here:)
 # ref: https://github.com/YujiSoftware/ac-unit-test
 def resolve():
 	# import sys
-	# input = sys.stdin.readline
+	# input = sys.stdin.readline # 入力読取高速化
+	# sys.setrecursionlimit(10 ** 9) # 再帰の上限値設定
 	def I(): return input()
 	def IS(): return input().split()
 	def II(): return int(input())
