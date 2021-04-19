@@ -5,7 +5,7 @@ import math
 def gcd(x,y):
 	return math.gcd(x, y)
 
-def gcd_list(num_list: list) -> int:
+def gcd_list(num_list):
 	return reduce(math.gcd, num_list)
 
 # 最小公倍数
@@ -15,11 +15,11 @@ import math
 def lcm(x, y):
 	return (x * y) // math.gcd(x, y)
 
-def lcm_list(num_list: list):
+def lcm_list(num_list):
 	return reduce(lcm, num_list, 1)
 
 # 約数列挙
-def make_divisors(n: int) -> list:
+def divisors(n):
 	return_list = []
 	for i in range(1, int(n**0.5)+1):
 		if n % i == 0:
@@ -40,7 +40,7 @@ def is_prime(n):
     return True
 
 # 素数数え上げ(エラトステネスの篩): set ver
-def prime_all(n):
+def prime_all_set(n):
 	prime_set = set([i for i in range(2, n+1)])
 
 	i = 2
@@ -53,7 +53,7 @@ def prime_all(n):
 
 	return prime_set
 # list ver
-def prime_all(n):
+def prime_all_list(n):
 	prime_list = [True] * (n+1)
 	prime_list[0] = prime_list[1] = False
 
@@ -68,7 +68,7 @@ def prime_all(n):
 	return prime_list
 
 # 素因数分解
-def prime_factorize(n: int) -> list:
+def prime_factorize(n):
 	return_list = []
 	while n % 2 == 0:
 		return_list.append(2)
