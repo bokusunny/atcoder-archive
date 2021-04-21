@@ -9,7 +9,7 @@
 ## Next Action
 差し当たり、インプット(未修領域学習)とアウトプット(典型問題演習)のハイブリッド。インプットが終わるまではコンテストに特化した対策はしない。焦らず！
 - [ ] 基本アルゴリズム・データ構造の未修領域を全て学ぶ
-  - [ ] [木](https://www.cqpub.co.jp/hanbai/books/18/18781/18781_9syo.pdf)
+  - [x] [木](https://www.cqpub.co.jp/hanbai/books/18/18781/18781_9syo.pdf)
   - [ ] [Union-Find](https://qiita.com/ofutonfuton/items/c17dfd33fc542c222396)
   - [ ] [ナップザックDP](https://qiita.com/drken/items/a5e6fe22863b7992efdb)
   - [ ] [区間DP](http://kutimoti.hatenablog.com/entry/2018/03/10/220819)
@@ -26,6 +26,7 @@
   - [ ] [AtCoder Problems 緑diff以上](https://kenkoooo.com/atcoder/#/table/bokusunny)
 
 ## Contest Tips
+- 変数は問題文に出ているX,A,Bなどのラベルをそのまま使わない、意味のあるラベリングをする。
 ### C問題
 - 探索ゴリ押しでいけるが、ひらめきがあれば一瞬で解けることもある。
 - まずスマートに解けるかしばし逡巡し、5~10分くらい目安で思いつかなかったら地道な探索で解く方向で行くのがいいか？
