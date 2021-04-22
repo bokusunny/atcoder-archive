@@ -10,7 +10,7 @@
 差し当たり、インプット(未修領域学習)とアウトプット(典型問題演習)のハイブリッド。インプットが終わるまではコンテストに特化した対策はしない。焦らず！
 - [ ] 基本アルゴリズム・データ構造の未修領域を全て学ぶ
   - [x] [木](https://www.cqpub.co.jp/hanbai/books/18/18781/18781_9syo.pdf)
-  - [ ] [Union-Find](https://qiita.com/ofutonfuton/items/c17dfd33fc542c222396)
+  - [x] [Union-Find](https://qiita.com/ofutonfuton/items/c17dfd33fc542c222396)
   - [ ] [ナップザックDP](https://qiita.com/drken/items/a5e6fe22863b7992efdb)
   - [ ] [区間DP](http://kutimoti.hatenablog.com/entry/2018/03/10/220819)
   - [ ] [bitDP](https://qiita.com/drken/items/7c6ff2aa4d8fce1c9361#11-bit-dp)
@@ -45,14 +45,13 @@
     - full binary tree
     - complete binary tree
   - ヒープ
+  - (Union-Find木)
   - (セグメント木)
-  <!-- - Union-Find木
-  - Binary indexed tree -->
+  <!-- - Binary indexed tree -->
 <!-- - (グラフ) -->
   <!-- - (ダイクストラ法)
   - (ワーシャルフロイド法)
   - (クラスカル法) -->
-<!-- - (Union-Find) -->
 
 ### 探索(サーチ)
 - 全探索
