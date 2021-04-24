@@ -9,13 +9,13 @@
 ## Next Action
 差し当たり、インプット(未修領域学習)とアウトプット(典型問題演習)のハイブリッド。インプットが終わるまではコンテストに特化した対策はしない。焦らず！
 - [ ] 基本アルゴリズム・データ構造の未修領域を全て学ぶ
+  - [ ] いもす法
   - [ ] [区間DP](http://kutimoti.hatenablog.com/entry/2018/03/10/220819)
   - [ ] [bitDP](https://qiita.com/drken/items/7c6ff2aa4d8fce1c9361#11-bit-dp)
   - [ ] [グラフ](https://qiita.com/maskot1977/items/e1819b7a1053eb9f7d61)
   - [ ] [ダイクストラ法](https://qiita.com/ageprocpp/items/cdf67e828e1b09316f6e)
   - [ ] ワーシャルフロイド法
   - [ ] クラスカル法
-  - [ ] いもす法
 - [ ] 典型問題演習
   - [ ] [精選100問](https://qiita.com/e869120/items/eb50fdaece12be418faa#2-3-%E5%88%86%E9%87%8E%E5%88%A5%E5%88%9D%E4%B8%AD%E7%B4%9A%E8%80%85%E3%81%8C%E8%A7%A3%E3%81%8F%E3%81%B9%E3%81%8D%E9%81%8E%E5%8E%BB%E5%95%8F%E7%B2%BE%E9%81%B8-100-%E5%95%8F)
   - [ ] [Educational DP contest](https://qiita.com/drken/items/03c7db44ccd27820ea0d)
