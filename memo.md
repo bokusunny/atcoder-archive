@@ -43,7 +43,7 @@
     - full binary tree
     - complete binary tree
   - ヒープ
-  - (Union-Find木)
+  - Union-Find木
   - (セグメント木)
   <!-- - Binary indexed tree -->
 <!-- - (グラフ) -->
@@ -53,12 +53,11 @@
 
 ### 探索(サーチ)
 - 全探索
-  - 順列全探索
-  - bit全探索
-  - 順列全探索
-  - DFS(深さ優先探索)
-  - (BFS(幅優先探索))
-- 二分探索
+  - 順列全探索 `O(NN!)`
+  - bit全探索 `O(2^N)`
+  - DFS(深さ優先探索) `O(N+M)`
+  - BFS(幅優先探索) `O(N+M)`
+- 二分探索 `O(logN)`
 - (半分全列挙)
 
 ### 整列(ソート)
@@ -84,6 +83,6 @@ Coming soon
 - 繰り返し自乗法(指数Nに対して `O(logN)`)
 
 ### 動的計画法(DP)
-- (ナップザックDP)
+- ナップザックDP
 <!-- - (区間DP)
 - (bit DP) -->
