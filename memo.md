@@ -13,10 +13,8 @@
   - [ ] 毎日寿司打
   - [ ] バーチャルコンテストで速解き
 - [ ] 基本アルゴリズム・データ構造の未修領域を全て学ぶ
-  - [ ] いもす法
   - [ ] [区間DP](http://kutimoti.hatenablog.com/entry/2018/03/10/220819)
   - [ ] [bitDP](https://qiita.com/drken/items/7c6ff2aa4d8fce1c9361#11-bit-dp)
-  - [ ] [グラフ](https://qiita.com/maskot1977/items/e1819b7a1053eb9f7d61)
   - [ ] [ダイクストラ法](https://qiita.com/ageprocpp/items/cdf67e828e1b09316f6e)
   - [ ] ワーシャルフロイド法
   - [ ] クラスカル法
@@ -70,7 +68,7 @@ Coming soon
 ### 累積和
 - 累積和(`O(N)`)
 - 尺取り法(`O(N)`)
-<!-- - (いもす法) -->
+- (いもす法)
 
 ### 整数
 - GCD, LCM(最大公約数, 最小公倍数)
