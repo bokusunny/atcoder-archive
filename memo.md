@@ -14,7 +14,7 @@
   - [ ] バーチャルコンテストで速解き
 - [ ] 基本アルゴリズム・データ構造の未修領域を全て学ぶ
   - [ ] [区間DP](http://kutimoti.hatenablog.com/entry/2018/03/10/220819)
-  - [ ] [bitDP](https://qiita.com/drken/items/7c6ff2aa4d8fce1c9361#11-bit-dp)
+  - [x] [bitDP](https://qiita.com/drken/items/7c6ff2aa4d8fce1c9361#11-bit-dp)
   - [x] ワーシャルフロイド法
   - [ ] クラスカル法
 - [ ] 典型問題演習
@@ -85,5 +85,8 @@ Coming soon
 
 ### 動的計画法(DP)
 - ナップザックDP
-<!-- - (区間DP)
-- (bit DP) -->
+<!-- - (区間DP) -->
+- (bit DP)
+
+<!-- ### その他 -->
+<!-- - 座標圧縮 -->
