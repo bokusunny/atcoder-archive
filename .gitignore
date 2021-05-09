@@ -1,3 +1,5 @@
 .vscode
 /test
 /test_run.py
+/test_run.cpp
+/a.out
