@@ -1,6 +1,14 @@
+# vscode
 .vscode
-/test
+/workspace.code-workspace
+
+# python
 /test_run.py
+
+# c++
 /test_run.cpp
 /a.out
 /a.out.dSYM
+
+# oj
+/test
