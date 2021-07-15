@@ -1,0 +1,12 @@
+{
+	"id": 24241857,
+	"epoch_second": 1626358154,
+	"problem_id": "tdpc_game",
+	"contest_id": "tdpc",
+	"user_id": "bokusunny",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 3,
+	"length": 1043,
+	"result": "AC",
+	"execution_time": 17
+}
