@@ -1,0 +1,12 @@
+{
+	"id": 26033983,
+	"epoch_second": 1632237699,
+	"problem_id": "iroha2019_day2_g",
+	"contest_id": "iroha2019-day2",
+	"user_id": "bokusunny",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 600,
+	"length": 1619,
+	"result": "AC",
+	"execution_time": 39
+}
