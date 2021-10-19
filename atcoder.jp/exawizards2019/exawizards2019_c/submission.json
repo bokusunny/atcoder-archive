@@ -1,0 +1,12 @@
+{
+	"id": 26683470,
+	"epoch_second": 1634628282,
+	"problem_id": "exawizards2019_c",
+	"contest_id": "exawizards2019",
+	"user_id": "bokusunny",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 500,
+	"length": 1192,
+	"result": "AC",
+	"execution_time": 50
+}
